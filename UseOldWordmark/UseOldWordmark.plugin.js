@@ -4,7 +4,7 @@
  * @authorId 399645127460782081
  * @authorLink https://twitter.com/zurrty
  * @version 1.0.0
- * @description Brings back the classic Discord wordmark.
+ * @description Brings back Discord's classic wordmark.
  * @website https://github.com/zurrty/bd-plugins/
  * @source https://raw.githubusercontent.com/zurrty/bd-plugins/main/UseOldWordmark/UseOldWordmark.plugin.js
  */
